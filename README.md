@@ -19,17 +19,6 @@ The flow cytometry data suggests that parasite in the not metabolically active r
 
 As expected VPA strains showed a reduction of oxidative stress levels compared to W2 strain of parasites.
 
-MitoSox mean fluorescence										"*" = significant increase compared to control						"-" = significant decrease compared to control				
-#exp	strain	form	1 hour						2 hour						3 hour					
-			TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo	TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo	TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo
-60	W2	rings	ns	ns	ns	ns	-	ns	-	---	-	ns	--	--	ns	ns	****	*	*	ns
-60	VPA	rings	ns	ns	ns	-	-	ns	ns	ns	**	ns	ns	ns	--	-	ns	ns	----	ns
-																				
-CellRox mean fluorescence																				
-#exp	strain	form	1 hour						2 hour						3 hour					
-			TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo	TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo	TQ 10uM	TQ 2uM	MB 800nm	MB 100uM	TQ&MB hi	TQ&MB lo
-59	W2	trophozoites	****	***	ns	ns	----	ns	**	**	-	ns	--	ns	ns	****	ns	**	--	ns
-59	VPA	trophozoites	ns	--	ns	ns	ns	-	*	*	-	ns	--	ns	ns	ns	ns	ns	*	ns
 ![image](https://github.com/user-attachments/assets/e344de5e-1cc2-405d-8f7f-a908a6f9710a)
 
 Conclusion
